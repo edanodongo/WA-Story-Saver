@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="turqois_blue">#51E1ED</color>
+    <color name="l_green">#02B290</color>
+    <color name="d_green">#1C8D73</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+
+
+
+    <color name="whats_App">#075E55</color>
+    <color name="bar">#054C44</color>
+
+
+    <color name="dark">#AAAA</color>
+
+    <color name="holo_orange">@android:color/holo_orange_light</color>
+
+
+
+</resources>
